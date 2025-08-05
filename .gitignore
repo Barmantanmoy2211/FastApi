@@ -1,0 +1,58 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.db
+*.sqlite
+*.h5
+*.parquet
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# System files
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# FastAPI auto-generated files
+*.sqlite3
+
+# Misc
+*.bak
+*.tmp
